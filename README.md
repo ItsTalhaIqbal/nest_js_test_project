@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
-</p>
+
 
 <p align="center">Efficient and scalable server-side application framework using NestJS with Prisma and PostgreSQL.</p>
 
@@ -16,8 +14,4 @@ This project utilizes the **NestJS** framework for building server-side applicat
 - **Modular Architecture**: Maintains separation of concerns with a well-organized file structure.
 - **Environment Configuration**: Utilizes `.env` for managing sensitive configurations.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
