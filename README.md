@@ -1,6 +1,6 @@
 
 
-<p align="center">Efficient and scalable server-side application framework using NestJS with Prisma and PostgreSQL.</p>
+<p align="center">Techs => NestJS with Prisma and PostgreSQL.</p>
 
 ## Description
 
